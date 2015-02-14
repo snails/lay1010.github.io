@@ -41,7 +41,7 @@ cates:
 
 # 中文本地化
 locals:
-  tags: Tags
-  about: About
+  tags:  标签
+  about:  关于
   newest: Newest
-  archive: Categories
+  archive: 归档

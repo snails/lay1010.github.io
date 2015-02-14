@@ -6,7 +6,7 @@
 body, html {
   margin: 0px;
   height: 100%;
-  overflow: hidden; 
+  overflow: hidden;
   background-color: #303030;
 }
 .row {
@@ -101,13 +101,13 @@ body, html {
   line-height: 1.42857143;
 }
 #content {
-  font-size: 18px;
+  font-size: 16px;
 }
 #content h2, h3 {
   line-height: 2;
 }
 blockquote p {
-  font-size: 20px;
+  font-size: 14px;
 }
 /* 其他配置 */
 .center {
@@ -121,4 +121,12 @@ blockquote p {
 .show-commend {
   width: 100%;
   margin-bottom: 40px;
+}
+/* scrollUp */
+#scrollUp {
+    background-image: url("../img/top.png");
+    bottom: 20px;
+    right: 20px;
+    width: 38px;    /* Width of image */
+    height: 38px;   /* Height of image */
 }
